@@ -1,0 +1,47 @@
+{
+    "editor.fontSize": 15,
+    "editor.fontFamily": "JetBrains Mono",
+    "workbench.colorTheme": "Yi Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.codeActionsOnSave": {
+
+    },
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": true,
+    "settingsSync.ignoredExtensions": [
+        "hookyqr.beautify"
+    ],
+    "explorer.confirmDelete": false,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "vscode-edge-devtools.webhint": false,
+    "editor.linkedEditing": true,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.editorAssociations": {
+        "*.eot": "default"
+    },
+    "editor.codeLensFontFamily": "JetBrains Mono",
+    "editor.inlayHints.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "normal",
+    "files.autoSave": "afterDelay",
+    "php.debug.executablePath": "",
+    "settingsSync.ignoredSettings": [
+        "-php.debug.executablePath"
+    ],
+    "npm.keybindingsChangedWarningShown": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "sync.gist": "32fe051d54815179c8761ac3f261fe37",
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "sync.forceDownload": true,
+    "sync.forceUpload": true,
+    "sync.quietSync": true,
+}
